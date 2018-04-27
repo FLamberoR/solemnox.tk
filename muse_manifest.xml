@@ -1,0 +1,72 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="solemnox.tk" resolutions="1x" timestamp="1524847284873">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="_________.css" crc="385051872" ref="участники"/>
+    <file name="_-___.css" crc="39489528" ref="о-нас"/>
+    <file name="_______.css" crc="226222975" ref="правила"/>
+    <file name="index.css" crc="4172277502" ref="index"/>
+    <file name="________-______.css" crc="4274789922" ref="оставить-заявку"/>
+    <file name="__________.css" crc="4275918974" ref="основатели"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:о-нас:основатели:правила:участники:оставить-заявку"/>
+    <file name="museutils.js" crc="4232573551" ref="index:о-нас:основатели:правила:участники:оставить-заявку"/>
+    <file name="whatinput.js" crc="86476730" ref="index:о-нас:основатели:правила:участники:оставить-заявку"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:о-нас:основатели:правила:участники:оставить-заявку"/>
+    <file name="require.js" crc="4234670167" ref="index:о-нас:основатели:правила:участники:оставить-заявку"/>
+  </folder>
+  <folder name="images">
+    <file name="356417-minecraft-shaders-crop-u94.jpg" crc="362667296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aamxq3ckox4.jpg" crc="3946723203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="о нас-crop-u322.png" crc="321426043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="основатели-crop-u348.png" crc="448605820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="правила-crop-u367.png" crc="415133278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="участники-crop-u380.png" crc="313234196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="оставить анкету-u393.png" crc="243857393" ref="index"/>
+    <file name="screenshot day (9)-crop-u643.jpg" crc="392344006" seo="true" ref="о-нас">
+      <caption webpage="о-нас" alt=""/>
+    </file>
+    <file name="screenshot day (25)-crop-u775.jpg" crc="273154881" seo="true" ref="основатели">
+      <caption webpage="основатели" alt=""/>
+    </file>
+    <file name="моя аватара.jpg" crc="4178396119" seo="true" ref="основатели">
+      <caption webpage="основатели" alt=""/>
+    </file>
+    <file name="nsuh7oc5klw.jpg" crc="289715885" seo="true" ref="основатели">
+      <caption webpage="основатели" alt=""/>
+    </file>
+    <file name="screenshot day (35)-crop-u928.jpg" crc="307128699" seo="true" ref="правила">
+      <caption webpage="правила" alt=""/>
+    </file>
+    <file name="underwater (12)-crop-u947.jpg" crc="3926778077" seo="true" ref="участники">
+      <caption webpage="участники" alt=""/>
+    </file>
+    <file name="без имени-1кчастника-u957.png" crc="3948905115" ref="участники"/>
+    <file name="gradiant (11)-crop-u1021.jpg" crc="76241985" seo="true" ref="оставить-заявку">
+      <caption webpage="оставить-заявку" alt=""/>
+    </file>
+    <file name="основатели-favicon.ico" crc="58734298" ref="основатели"/>
+    <file name="правила-favicon.ico" crc="58734298" ref="правила"/>
+    <file name="участники-favicon.ico" crc="58734298" ref="участники"/>
+    <file name="оставить-заявку-favicon.ico" crc="58734298" ref="оставить-заявку"/>
+    <file name="домашняя-favicon.ico" crc="58734298" ref="index"/>
+  </folder>
+  <file name="index.html" crc="137702802" seo="true" mt="1524847278719" redirect="true"/>
+  <file name="о-нас.html" crc="3940373829" seo="true" mt="1524686467506" redirect="true"/>
+  <file name="основатели.html" crc="416498854" seo="true" mt="1524847093518" redirect="true"/>
+  <file name="правила.html" crc="3922186291" seo="true" mt="1524847100414" redirect="true"/>
+  <file name="участники.html" crc="3959452911" seo="true" mt="1524847109737" redirect="true"/>
+  <file name="оставить-заявку.html" crc="3957320596" seo="true" mt="1524847116640" redirect="true"/>
+</manifest>
